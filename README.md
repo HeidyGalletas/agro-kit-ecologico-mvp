@@ -140,5 +140,8 @@ El repositorio fue creado durante las primeras fases del proyecto académico par
 
 Este proyecto corresponde a un ejercicio académico desarrollado dentro del curso de Ingeniería de Software. Algunas funcionalidades avanzadas, como integración de pagos reales, notificaciones automáticas y gestión logística completa, se proponen como trabajo futuro para etapas posteriores de desarrollo.
 
+## Versión
+Versión académica 1.0
+
 
 
