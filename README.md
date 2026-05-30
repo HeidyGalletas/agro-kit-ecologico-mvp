@@ -142,6 +142,8 @@ Este proyecto corresponde a un ejercicio académico desarrollado dentro del curs
 
 ## Versión
 Versión académica 1.0
+## Última actualización
+Juinio 2026
 
 
 
